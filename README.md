@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![cowkim937 GitHub stats](https://github-readme-stats.vercel.app/api?username=cowkim937)](https://github.com/cowkim937/github-readme-stats)
+
 <!--
 **cowkim937/cowkim937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
