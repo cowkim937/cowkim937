@@ -1,8 +1,6 @@
 ### Hello World! 👋
 
 
-https://img.shields.io/badge/#FF6F00?style=flat-square&logo=Tensorflow&logoColor=white&link=https://github.com/cowkim937/cowkim937/edit/main/README.md
-
 [![cowkim937 GitHub stats](https://github-readme-stats.vercel.app/api?username=cowkim937)](https://github.com/cowkim937/github-readme-stats)
 
 <!--
