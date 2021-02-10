@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Samll%26Big&fontSize=90)
+### Hello World! 👋
 
-[![cowkim937 GitHub stats](https://github-readme-stats.vercel.app/api?username=cowkim937)](https://github.com/cowkim937/github-readme-stats)
+![cowkim937 GitHub stats](https://github-readme-stats.vercel.app/api?username=cowkim937&show_icons=true&theme=radical)
 
 <!--
 **cowkim937/cowkim937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
