@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 ##### Tech stack
-![Gmail](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Gmail&logoColor=white&link=)
+![Gmail](https://img.shields.io/badge/Gamil?style=flat-square&logo=Gmail&logoColor=white&link=cowkim937@gmail.com)
 
 ![cowkim937 GitHub stats](https://github-readme-stats.vercel.app/api?username=cowkim937&show_icons=true&theme=radical)
 
