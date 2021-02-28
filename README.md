@@ -29,6 +29,7 @@
 
 ##### Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cowkim937@gmail.com)](mailto:cowkim937@gmail.com)
+[![Tstory Badge](https://img.shields.io/badge/Tistory-FFD400?style=flat-square&logo=TV%20Time&logoColor=black&link=https://cowkim-svd.tistory.com/)](https://cowkim-svd.tistory.com/)
 
 ![cowkim937 GitHub stats](https://github-readme-stats.vercel.app/api?username=cowkim937&show_icons=true&theme=radical)
 
