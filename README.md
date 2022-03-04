@@ -10,6 +10,7 @@
 ##### AI
 ![tf Badge](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)
 ![keras Badge](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ##### Front
 ![vue Badge](https://img.shields.io/badge/Vue%2ejs-4fc0d?style=flat&logo=Vue%2ejs&logoColor=white)
