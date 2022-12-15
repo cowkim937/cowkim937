@@ -7,7 +7,8 @@
 ![c++ Badge](https://img.shields.io/badge/C%2b%2b-00599c?style=flat&logo=C%2b%2b&logoColor=white)
 ![rtos Badge](https://img.shields.io/badge/FreeRTOS-3da639c?style=flat&logo=&logoColor=white)
 
-##### AI
+##### ML&DL
+![Python Badge](https://img.shields.io/badge/Python-1867C0?style=flat&logo=Python&logoColor=white)
 ![tf Badge](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)
 ![keras Badge](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
@@ -15,6 +16,7 @@
 ##### Front
 ![vue Badge](https://img.shields.io/badge/Vue%2ejs-4fc0d?style=flat&logo=Vue%2ejs&logoColor=white)
 ![vuetify Badge](https://img.shields.io/badge/Vuetify-1867c0?style=flat&logo=Vuetify&logoColor=white)
+![Tauri Badge](https://img.shields.io/badge/Tauri-FF8000?style=flat&logo=Tauri&logoColor=white)
 
 ##### Back
 ![nodejs Badge](https://img.shields.io/badge/Node%2ejs-339933?style=flat&logo=Node%2ejs&logoColor=white)
